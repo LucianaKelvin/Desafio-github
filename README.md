@@ -1,4 +1,4 @@
-# Desafio-github
+# Desafio de projeto Git/Github
 Desafio DIO para criação do primeiro repositório
 
 ## Lins úteis:
